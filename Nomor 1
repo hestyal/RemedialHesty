@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main(){
+  int data_mahasiswa;
+  cout << "Nama : Hesty Alfrianty Suhapid" <<endl'
+  cout << "Nim  : 1829142014" <<endl;
+  cout << "Kelas : Tekom B" <<endl;
+  cout << "Tahun Angkatan : 2018" <<endl;
+ }
