@@ -11,18 +11,18 @@ struct data_mhs
 int main()
 {
   a. nama = "Ajis Gagap";
-  a. nim = "102904049";
+  a. ips semester 1 = 3.0;
   a. ipk = 2.5;
   b. nama = "Tumming";
-  b. nim = "102904050;
+  b. ips semester 1 = 3.1;
   b. ipk = 3.0;
   
   cout << "nama : " << a.nama <<endl;
-  cout << "nim  : " << a.nim <<endl;
+  cout << "ips semester 1  : " << a.ips semester 1 <<endl;
   cout << "ipk  : " << a.ipk <<endl;
   cout << "\n";
   cout << "nama : " << b.nama <<endl;
-  cout << "nim  : " << b.nim <<endl;
+  cout << "ips semester 1  : " << b.ips semester 1 <<endl;
   cout << "ipk  : " << b.ipk <<endl;
  
 return 0;
